@@ -1,0 +1,22 @@
+<body onload="redirect301CacheCleanPost()">
+<script>
+    function redirect301CacheCleanPost() {
+        let qPlace = window.location.href.indexOf('?');
+        if (qPlace > 0) {
+            let urlForRedirect = window.location.href.substr(qPlace + 1);
+            console.log(urlForRedirect);
+            let form = document.forms[0];
+            form.action = urlForRedirect;
+            form.submit();
+        } else {
+            var helpP = document.createElement("p");
+            var helpText = document.createTextNode("Add to url ?url_to_redirect");
+            helpP.appendChild(helpText);
+            document.body.appendChild(helpP);
+        }
+    }
+</script>
+<form action="" method="post">
+    <input type="submit" value="redirect-301-cache-clean-post" />
+</form>
+</body>
