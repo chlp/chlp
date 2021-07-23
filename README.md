@@ -1,4 +1,18 @@
-# https://chlp.github.io/chlp
+Hi, I'm Aleksei Rytikov :rocket:
+* :boar: Backend Developer
 
-To fix old 301 redirect use this link https://chlp.github.io/chlp/redirect301CacheCleanPost.html?url.
-For exmpale. You change redirect on page https://prover.io - follow link http://chlp.github.io/chlp/redirect301CacheCleanPost.html?https://prover.io and it send post request to https://prover.io and browser recache (even 301) redirect.
+Location
+* :panda_face: Russia, Moscow
+
+Family details
+* :cat: Married, three sons
+
+Contacts and links
+* :monkey: Email: chlp@bk.ru
+* :sheep: Telegram: @r_alexey
+* :bird: LinkedIn: https://www.linkedin.com/in/user-raa/
+* :bug: Stackoverflow: https://stackoverflow.com/users/4416254
+* :elephant: Habr Q&A: https://qna.habr.com/user/chlp
+
+Skills
+* :bug: PHP, Golang, JavaScript, C++, Python, MySQL, Git, SVN, Linux
