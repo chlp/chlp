@@ -2,7 +2,7 @@ Hi, I'm Aleksei Rytikov :rocket:
 * :boar: Backend Developer
 
 Location
-* :panda_face: Russia, Moscow
+* :sweden: Sweden, Stockholm
 
 Family details
 * :cat: Married, three sons
